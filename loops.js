@@ -26,5 +26,5 @@ function doWhileLoop(array) {
 
   do {
     hfdusfj 
-  }
+  } while ()
 }
