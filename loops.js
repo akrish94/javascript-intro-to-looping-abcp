@@ -25,8 +25,6 @@ function doWhileLoop(array) {
   }
 
   do {
-  
-} 
-    
+    hfdusfj 
   }
 }
