@@ -15,4 +15,7 @@ function whileLoop(n) {
     console.log(--n)
   }
   
+  return done
 }
+
+console.log(whileLoop(3))
